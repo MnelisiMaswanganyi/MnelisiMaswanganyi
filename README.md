@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mnelisi Maswanganyi</h1>
-<h3 align="center">A passionate frontend developer from Johannesburg </h3>
+<h3 align="center">A passionate frontend developer from Johannesburg,South Africa </h3>
 <img align="center" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am passionate about Web development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="swangs.m09@gmail.com" ></h3>
 <p align="left">
 <a href="swangs.m09@gmail.com" target="blank">
 
