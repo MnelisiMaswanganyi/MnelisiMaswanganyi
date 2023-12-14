@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mnelisi Maswanganyi</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg </h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-7661077">
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnelisimaswanganyi" alt="mnelisimaswanganyi" /></a> </p>
 
 - 🌱 I’m currently learning **React & MySQL**
