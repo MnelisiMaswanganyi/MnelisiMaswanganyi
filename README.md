@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mnelisi Maswanganyi</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg </h3>
-<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnelisimaswanganyi" alt="mnelisimaswanganyi" /></a> </p>
+<img align="center" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
+
 
 - 🌱 I’m currently learning **React & MySQL**
 
