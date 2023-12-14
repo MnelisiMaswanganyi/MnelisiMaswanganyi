@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mnelisi Maswanganyi</h1>
 <h3 align="center">A passionate frontend developer from Johannesburg South Africa</h3>
-<img align="centre" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-7661077.gif">
+<img align="left" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-7661077.gif">
 
 - 🌱 I’m currently learning **React & MySQL**
 
