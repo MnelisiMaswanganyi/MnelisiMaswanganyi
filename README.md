@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack developer from Johannesburg South Africa</h3>
 <img align="left" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-7661077.gif">
 
-- 🌱 I’m currently learning **React & MySQL**
+- 🌱 I’m currently building **FULLSTACK PROJECTS**
 
 - 💬 Ask me about **HTML , Javascript , React , Node JS , APIs & mySQL**
 
